@@ -1,2 +1,7 @@
+<<<<<<< HEAD
+i create a new file!
+new line;
+=======
 i create a new file
 Now, i add a new line!
+>>>>>>> 38a396d70480a3c338c2b57ac98bd80afef3583a
